@@ -151,7 +151,7 @@ body{
    body{
     background-image: url(https://wallpaperaccess.com/full/2719468.jpg);
     background-repeat: no-repeat;
-    background-size: 89px;
+    background-size:358px;;
     height: 89vh;
     width: 87px;
     display: flex;
@@ -161,7 +161,8 @@ body{
 
   #myForm {
     height: 38px;
-    width: 583px;
+    width: 100%;
+    padding-left: 283px;
   }
 
   .informetion {
